@@ -1,61 +1,65 @@
 const PROPERTIES = [
+
+  // ... inicio de modificacion para añadir o borrar nuevas propiedades:
+
   {
     id: 1,
     featured: true,
     images: [
-      "imagenes/inmuebles/monte-sion/portada.png",
-      "imagenes/inmuebles/monte-sion/2.png",
-      "imagenes/inmuebles/monte-sion/3.png",
-      "imagenes/inmuebles/monte-sion/4.png",
-      "imagenes/inmuebles/monte-sion/5.png",
-      "imagenes/inmuebles/monte-sion/6.png",
-      "imagenes/inmuebles/monte-sion/7.png",
-      "imagenes/inmuebles/monte-sion/8.png",
-      "imagenes/inmuebles/monte-sion/9.png",
-      "imagenes/inmuebles/monte-sion/10.png",
-      "imagenes/inmuebles/monte-sion/11.png",
-      "imagenes/inmuebles/monte-sion/12.png",
+      "imagenes/inmuebles/carioca/1",
+      "imagenes/inmuebles/carioca/2",
+      "imagenes/inmuebles/carioca/3",
+      "imagenes/inmuebles/carioca/4",
+      "imagenes/inmuebles/carioca/5",
+      "imagenes/inmuebles/carioca/6",
+      "imagenes/inmuebles/carioca/7",
+      "imagenes/inmuebles/carioca/8",
+      "imagenes/inmuebles/carioca/9",
     ],
     type: "apartamento",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "Edificio Monte Sion - Piso 8°",
+    title: "Conjunto Copa Cabana | Piso 8°",
     bedrooms: 3, // habitaciones
     bathrooms: 2, // Baños
-    area: 57,
-    parking: 1,
-    price: 155000000,
+    area: 59,
+    parking: 0,
+    price: 198000000,
     negotiable: true,
     location: "Cartagena de Indias",
     
     // ... dentro de los datos de tu PROPERTIES:
 
-description: `ESPECTACULAR APARTAMENTO EN 8° PISO | EDIFICIO MONTE SIÓN 
+description: `ESPECTACULAR APARTAMENTO EN 8° PISO | CONJUNTO COPA CABANA 
 
-📍 UBICACIÓN: Edificio Monte Sión / Cartagena de Indias
-💰 PRECIO DE VENTA: $155.000.000 COP
-🏢 ADMINISTRACIÓN: $170.000
+📍 UBICACIÓN: Conjunto Copa Cabana / Cartagena de Indias
+🏢 ADMINISTRACIÓN: $230.000
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
-• ÁREA TOTAL: 57 m²
+• ÁREA TOTAL: 59 m²
 • PISO: 8
-• HABITACIONES: 2 Habitaciones (principal con baño privado)
+• HABITACIONES: 3 
 • BAÑOS: 2
 • PARQUEADEROS: Comunal
 • ESTRATO: 3
-• AÑO DE CONST.: 2022
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
-• Cocina Americana
-• Sala y Comedor: Integrados
-• Balcón 
+• Cocina Americana, Pantry
+• Sala y Comedor
+• Balcón vista interna del conjunto
 • Zona de labores
 
 🏢 AMENIDADES DEL CONJUNTO
-• Seguridad 24/7 / Portería
-• Piscina / Cancha deportiva
-• Salón Social 
-• Parque Infantil / Zonas Verdes
-• Ascensor / Parqueadero de Visitantes
+• Vías de acceso y transporte
+• Cercania a centros comerciales
+• Sobre via principal 
+• Piscina
+• Cancha deportiva
+• Parque infantil
+• Salon social
+• Minimarket
+• Zonas verdes
+• Parqueadero comunal
+• Vigilancia 24/7 + recepción
 
 ✅ POR QUÉ ES UNA EXCELENTE OPCIÓN:
 Este apartamento es la oportunidad ideal para quienes buscan una PROPERTIES joven, con amenidades completas y en un sector en pleno crecimiento.
@@ -75,6 +79,7 @@ features: [
 ],
   },
   
+  // ... fin de modificacion para añadir o borrar nuevas propiedades:
 ];
 
 function formatPrice(price, type) {
