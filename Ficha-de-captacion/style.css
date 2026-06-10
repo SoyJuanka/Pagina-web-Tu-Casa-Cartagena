@@ -125,6 +125,11 @@ font-weight: bold;
     pointer-events: none;
 }
 
+.titulo-guia{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 70px;
+}
 
 @media (max-width: 768px) {
 
