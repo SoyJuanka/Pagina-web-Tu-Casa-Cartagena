@@ -322,7 +322,7 @@ description: `ESPECTACULAR APARTAMENTO PISO 10 | CONJUNTO TERRAZAS DE CALICANTO
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
-• Cocina,
+• Cocina
 • Sala y Comedor
 • Zona de parqueo
 • Balcon
@@ -352,6 +352,323 @@ features: [
   "Piscina",  
   "Gimnasio", 
   "Salon de eventos",
+],
+  },
+
+     {
+    id: 6,
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/dammar/1.jpg",
+      "imagenes/inmuebles/dammar/2.jpg",
+      "imagenes/inmuebles/dammar/3.jpg",
+      "imagenes/inmuebles/dammar/4.jpg",
+      "imagenes/inmuebles/dammar/5.jpg",
+      "imagenes/inmuebles/dammar/6.jpg",
+      "imagenes/inmuebles/dammar/7.jpg",
+      "imagenes/inmuebles/dammar/8.jpg",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Conjunto Dammar | Piso 4°" ,
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 58,
+    parking: 1,
+    price: 280000000,
+    negotiable: true,
+    location: "Cartagena de Indias - Serena del Mar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 4 EN OBRA GRIS | CONJUNTO DAMMAR
+
+📍 UBICACIÓN: Conjunto Dammar / Cartagena de Indias - Serena del Mar
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 58 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 4
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina
+• Sala y Comedor
+• Zona de parqueo
+• Balcon
+• Cuarto de lavado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Kiosko abierto
+• Vigilancia 24/7
+• Piscina
+• Zona BBQ
+• Alta valorizacion
+• Cerca a playa 
+• Parque infantil
+• Zonas verdes
+• Parqueadero comunal
+• Urbanización cerrada
+
+✅ POR QUÉ ES UNA EXCELENTE OPCIÓN:
+Vive donde la brisa marina encuentra la sostenibilidad. Dammar en Serena del Mar no es solo un apartamento, es el equilibrio perfecto entre la frescura del Caribe y un diseño inteligente. Disfruta de un hogar diseñado para ser fresco, eficiente y, sobre todo, tuyo. Bienvenido al futuro de la vivienda en Cartagena.
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Recepción", 
+  "Piscina",   
+  "Salon de eventos",
+],
+  },
+
+      {
+    id: 7,
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/portanova/1.jpg",
+      "imagenes/inmuebles/portanova/2.jpg",
+      "imagenes/inmuebles/portanova/3.jpg",
+      "imagenes/inmuebles/portanova/4.jpg",
+      "imagenes/inmuebles/portanova/5.jpg",
+      "imagenes/inmuebles/portanova/6.jpg",
+      "imagenes/inmuebles/portanova/7.jpg",
+      "imagenes/inmuebles/portanova/8.jpg",
+      "imagenes/inmuebles/portanova/9.jpg",
+      "imagenes/inmuebles/portanova/10.jpg",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Conjunto Portanova | Piso 2°" ,
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 58,
+    parking: 1,
+    price: 295000000,
+    negotiable: true,
+    location: "Cartagena de Indias - Serena del Mar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 4 EN OBRA GRIS | CONJUNTO PORTANOVA
+
+📍 UBICACIÓN: Conjunto Portanova / Cartagena de Indias - Serena del Mar
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 58 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 4
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina
+• Sala y Comedor
+• Zona de parqueo
+• Balcon
+• Cuarto de lavado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Kiosko abierto
+• Vigilancia 24/7
+• Piscina
+• Zona BBQ
+• Alta valorizacion
+• Cerca a playa 
+• Parque infantil
+• Zonas verdes
+• Parqueadero comunal
+• Urbanización cerrada
+
+✅ POR QUÉ ES UNA EXCELENTE OPCIÓN:
+Vive donde la brisa marina encuentra la sostenibilidad. Portanova en Serena del Mar no es solo un apartamento, es el equilibrio perfecto entre la frescura del Caribe y un diseño inteligente. Disfruta de un hogar diseñado para ser fresco, eficiente y, sobre todo, tuyo. Bienvenido al futuro de la vivienda en Cartagena.
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Recepción", 
+  "Piscina",   
+  "Salon de eventos",
+],
+  },
+
+        {
+    id: 8,
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/jardin orquidea/1.jpg",
+      "imagenes/inmuebles/jardin orquidea/2.jpg",
+      "imagenes/inmuebles/jardin orquidea/3.jpg",
+      "imagenes/inmuebles/jardin orquidea/4.jpg",
+      "imagenes/inmuebles/jardin orquidea/5.jpg",
+      "imagenes/inmuebles/jardin orquidea/6.jpg",
+      "imagenes/inmuebles/jardin orquidea/7.jpg",
+      "imagenes/inmuebles/jardin orquidea/8.jpg",
+      "imagenes/inmuebles/jardin orquidea/9.jpg",
+      "imagenes/inmuebles/jardin orquidea/10.jpg",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: " Jardin Orquidea | Piso 2°" ,
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 57,
+    parking: 1,
+    price: 220000000,
+    negotiable: true,
+    location: "Cartagena de Indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 2 | CONJUNTO JARDIN ORQUIDEA
+
+📍 UBICACIÓN: Conjunto Jardin Orquidea / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 57 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina Americana
+• Sala y Comedor
+• Zona de parqueo
+• Balcon
+• Cuarto de lavado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Piscina
+• Parque infantil
+• Zonas verdes
+• Parqueadero comunal
+• Urbanización cerrada
+
+✅ POR QUÉ ES UNA EXCELENTE OPCIÓN:
+Este apartamento es la oportunidad ideal para quienes buscan una PROPIEDAD joven, con amenidades completas y en un sector en pleno crecimiento.
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Recepción", 
+  "Piscina",  
+  "Parque infantil", 
+  "Salon de eventos",
+],
+  },
+
+          {
+    id: 9,
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/san fernando/1.jpg",
+      "imagenes/inmuebles/san fernando/2.jpg",
+      "imagenes/inmuebles/san fernando/3.jpg",
+      "imagenes/inmuebles/san fernando/4.jpg",
+      "imagenes/inmuebles/san fernando/5.jpg",
+      "imagenes/inmuebles/san fernando/6.jpg",
+      "imagenes/inmuebles/san fernando/7.jpg",
+      "imagenes/inmuebles/san fernando/8.jpg",
+    ],
+    type: "casa",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Casa esquinera",
+    bedrooms: 4, // habitaciones
+    bathrooms: 2, // Baños
+    area: 580,
+    parking: 0,
+    price: 800000000,
+    negotiable: true,
+    location: "Cartagena de Indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR CASA DE 3 NIVELES | BARRIO SAN FERNANDO
+
+📍 UBICACIÓN: San Fernando / Cartagena de Indias 
+
+1er Piso:
+2 Apartamentos de 2 habitaciones, (una con closets ), 1 baño, cocina, patio de Labores, terraza. 
+
+2do Piso:
+2 Apartamentos de 2 habitaciones,( una con closets )1 baño, cocina, zona  de labores, balcón.acceso por escaleras.
+
+3er Piso. 
+Levante de paredes en ladrillo  que cierran el piso  y techo en eternit. Obra Gris.
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Inmueble de 3 niveles", 
+],
+  },
+
+            {
+    id: 10,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/miraflores/1.jpg",
+      "imagenes/inmuebles/miraflores/2.jpg",
+      "imagenes/inmuebles/miraflores/3.jpg",
+      "imagenes/inmuebles/miraflores/4.jpg",
+      "imagenes/inmuebles/miraflores/5.jpg",
+      "imagenes/inmuebles/miraflores/6.jpg",
+      "imagenes/inmuebles/miraflores/7.jpg",
+      "imagenes/inmuebles/miraflores/8.jpg",
+      "imagenes/inmuebles/miraflores/9.jpg",
+    ],
+    type: "casa",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Casa esquinera",
+    bedrooms: 3, // habitaciones
+    bathrooms: 2, // Baños
+    area: 106,
+    parking: 0,
+    price: 440000000,
+    negotiable: true,
+    location: "Turbaco - Bolivar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN EL VALLE
+
+📍 UBICACIÓN: Urbanización El Valle / Turbaco - Bolivar 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 106 m²
+• HABITACIONES: 3
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina Americana
+• Sala y Comedor
+• Patio enchapado
+• Balcon
+• Terraza
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Inmueble de 3 niveles", 
 ],
   },
 
