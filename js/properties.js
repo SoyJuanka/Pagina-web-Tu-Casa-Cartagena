@@ -1,3 +1,4 @@
+console.log("¡El archivo JS se está ejecutando correctamente!");
 const PROPERTIES = [
 
   // ... inicio de modificacion para añadir o borrar nuevas propiedades:
