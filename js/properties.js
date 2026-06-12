@@ -585,7 +585,7 @@ features: [
     ],
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "Casa esquinera",
+    title: "San Fernando | La Florida",
     bedrooms: 4, // habitaciones
     bathrooms: 2, // Baños
     area: 580,
@@ -635,7 +635,7 @@ features: [
     ],
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "Casa esquinera",
+    title: "Urbanización Miraflores",
     bedrooms: 3, // habitaciones
     bathrooms: 2, // Baños
     area: 106,
@@ -677,53 +677,331 @@ features: [
     id: 11,
     featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
     images: [
-      "imagenes/inmuebles/miraflores/1.webp",
-      "imagenes/inmuebles/miraflores/2.webp",
-      "imagenes/inmuebles/miraflores/3.webp",
-      "imagenes/inmuebles/miraflores/4.webp",
-      "imagenes/inmuebles/miraflores/5.webp",
-      "imagenes/inmuebles/miraflores/6.webp",
-      "imagenes/inmuebles/miraflores/7.webp",
-      "imagenes/inmuebles/miraflores/8.webp",
-      "imagenes/inmuebles/miraflores/9.webp",
+      "imagenes/inmuebles/santa ana/1.webp",
+      "imagenes/inmuebles/santa ana/2.webp",
+      "imagenes/inmuebles/santa ana/3.webp",
+      "imagenes/inmuebles/santa ana/4.webp",
+      "imagenes/inmuebles/santa ana/5.webp",
+      "imagenes/inmuebles/santa ana/6.webp",
+      "imagenes/inmuebles/santa ana/7.webp",
+      "imagenes/inmuebles/santa ana/8.webp",
+      "imagenes/inmuebles/santa ana/9.webp",
+      "imagenes/inmuebles/santa ana/10.webp",
+      "imagenes/inmuebles/santa ana/11.webp",
+      "imagenes/inmuebles/santa ana/12.webp",
+      "imagenes/inmuebles/santa ana/13.webp",
+      "imagenes/inmuebles/santa ana/14.webp",
+      "imagenes/inmuebles/santa ana/15.webp",
     ],
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "Casa esquinera",
+    title: "Urbanizacion Santa Ana",
     bedrooms: 3, // habitaciones
-    bathrooms: 2, // Baños
-    area: 106,
-    parking: 0,
-    price: 440000000,
+    bathrooms: 3, // Baños
+    area: 89,
+    parking: 1,
+    price: 275000000,
     negotiable: true,
     location: "Turbaco - Bolivar",
     
     // ... dentro de los datos de tu PROPERTIES:
 
-description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN EL VALLE
+description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN SANTA ANA
 
-📍 UBICACIÓN: Urbanización El Valle / Turbaco - Bolivar 
+📍 UBICACIÓN: Urbanización Santa Ana / Turbaco - Bolivar 
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
-• ÁREA TOTAL: 106 m²
+• ÁREA TOTAL: 101 m²
 • HABITACIONES: 3
-• BAÑOS: 2
+• BAÑOS: 3
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
-• Cocina Americana
+• Cocina 
 • Sala y Comedor
 • Patio enchapado
 • Balcon
 • Terraza
+• Aire acondicionado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Piscina
+• Parque infantil
+• Zonas verdes
+• Urbanización cerrada
 
 📲 ¡AGENDA TU VISITA HOY!
-No pierdas la oportunidad de conocer tu próximo hogar.
+Esta propiedad es la oportunidad ideal para familias que buscan amplitud y comodidad en una de las mejores zonas residenciales de Turbaco. Su diseño de 101 m² construidos ofrece espacios frescos y bien distribuidos en un entorno tranquilo y seguro.
 Contacto: Grupo empresarial Tu Casa Cartagena
 WhatsApp: 3104605207`,
 
 features: [
   "Inmueble de 3 niveles", 
+  "Conjunto cerrado",
+],
+  },
+
+              {
+    id: 12,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/altagracia/1.webp",
+      "imagenes/inmuebles/altagracia/2.webp",
+      "imagenes/inmuebles/altagracia/3.webp",
+      "imagenes/inmuebles/altagracia/4.webp",
+      "imagenes/inmuebles/altagracia/5.webp",
+      "imagenes/inmuebles/altagracia/6.webp",
+      "imagenes/inmuebles/altagracia/7.webp",
+      "imagenes/inmuebles/altagracia/8.webp",
+      "imagenes/inmuebles/altagracia/9.webp",
+      "imagenes/inmuebles/altagracia/10.webp",
+      "imagenes/inmuebles/altagracia/11.webp",
+
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Conjunto Altagracia",
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 57,
+    parking: 1,
+    price: 270000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 12° | CONJUNTO ALTAGRACIA
+
+📍 UBICACIÓN: Conjunto Altagracia / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 57 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon
+• Estudio
+• Zona de labores
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Piscina
+• Parque infantil
+• Zonas verdes
+• Conjunto cerrada
+• Gimnasio
+• Parqueadero cubierto
+• Ascensor
+
+
+📲 ¡AGENDA TU VISITA HOY!
+Ubicado en una zona residencial tranquila, con fácil acceso a transporte público, es ideal para familias que buscan comodidad y calidad de vida.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Gimnasio", 
+  "Ascensor",
+  "Parque infantil",
+],
+  },
+
+               {
+    id: 13,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/las palmas/1.webp",
+      "imagenes/inmuebles/las palmas/2.webp",
+      "imagenes/inmuebles/las palmas/3.webp",
+      "imagenes/inmuebles/las palmas/4.webp",
+      "imagenes/inmuebles/las palmas/5.webp",
+      "imagenes/inmuebles/las palmas/6.webp",
+      "imagenes/inmuebles/las palmas/7.webp",
+      "imagenes/inmuebles/las palmas/8.webp",
+      "imagenes/inmuebles/las palmas/9.webp",
+      "imagenes/inmuebles/las palmas/10.webp",
+      "imagenes/inmuebles/las palmas/11.webp",
+      "imagenes/inmuebles/las palmas/12.webp",
+
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Las Palmas | Piso 9°",
+    bedrooms: 3, // habitaciones
+    bathrooms: 2, // Baños
+    area: 81,
+    parking: 1,
+    price: 310000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 9° | CONJUNTO LAS PALMAS
+
+📍 UBICACIÓN: Conjunto Las Palmas / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 81 m²
+• HABITACIONES: 3
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon
+• Zona de labores
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Piscina
+• Parque infantil
+• Zonas verdes
+• Conjunto cerrada
+• Parqueadero cubierto
+• Ascensor
+
+
+📲 ¡AGENDA TU VISITA HOY!
+Ubicado en una zona residencial tranquila, con fácil acceso a transporte público, es ideal para familias que buscan comodidad y calidad de vida.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Parque infantil",
+],
+  },
+
+                 {
+    id: 14,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/laguito/1.webp",
+      "imagenes/inmuebles/laguito/2.webp",
+      "imagenes/inmuebles/laguito/3.webp",
+      "imagenes/inmuebles/laguito/4.webp",
+      "imagenes/inmuebles/laguito/5.webp",
+      "imagenes/inmuebles/laguito/6.webp",
+      "imagenes/inmuebles/laguito/7.webp",
+      "imagenes/inmuebles/laguito/8.webp",
+      "imagenes/inmuebles/laguito/9.webp",
+      "imagenes/inmuebles/laguito/10.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Edificio Laura | Amoblado",
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 80,
+    parking: 1,
+    price: 780000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 9° | EDIFICIO LAURA
+
+📍 UBICACIÓN: Edificio Laura / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 80 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 5
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon
+• Zona de labores
+• Aire Acondicionado
+• Apartamento Amoblado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Piscina
+• Parque infantil
+• Salon social
+• Conjunto cerrada
+• Jacuzzi
+• Ascensor
+• Sauna
+
+
+📲 ¡AGENDA TU VISITA HOY!
+Vive o invierte en uno de los sectores más codiciados de Cartagena de Indias. Ubicado estratégicamente en El Laguito, este apartamento combina la exclusividad de una zona residencial tranquila con la cercanía a la vibrante vida turística de la ciudad. Con una vista privilegiada y acabados de primera, esta es la propiedad que estabas esperando para asegurar tu patrimonio frente al mar Caribe. ¡Haz de El Laguito tu nuevo hogar!
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Jacuzzi",
+  "Sauna",
+],
+  },
+
+                {
+    id: 15,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/rodeba/1.webp",
+      "imagenes/inmuebles/rodeba/2.webp",
+      "imagenes/inmuebles/rodeba/3.webp",
+      "imagenes/inmuebles/rodeba/4.webp",
+      "imagenes/inmuebles/rodeba/5.webp",
+      "imagenes/inmuebles/rodeba/6.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Edificio Rodeba | Piso 2°",
+    bedrooms: 2, // habitaciones
+    bathrooms: 1, // Baños
+    area: 54,
+    parking: 0,
+    price: 260000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 2° | EDIFICIO RODEBA
+
+📍 UBICACIÓN: Edificio Rodeba / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 54 m²
+• HABITACIONES: 2
+• BAÑOS: 1
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon
+• Patio
+
+🏢 AMENIDADES DEL CONJUNTO
+• Permiten mascotas
+• Cerca a colegio y comercios
+
+📲 ¡AGENDA TU VISITA HOY!
+Aprovecha esta oportunidad de inversión en una de las ciudades más turísticas de Colombia.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Cerca a colegio y comercios",
 ],
   },
 
