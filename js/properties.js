@@ -673,6 +673,60 @@ features: [
 ],
   },
 
+            {
+    id: 11,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/miraflores/1.webp",
+      "imagenes/inmuebles/miraflores/2.webp",
+      "imagenes/inmuebles/miraflores/3.webp",
+      "imagenes/inmuebles/miraflores/4.webp",
+      "imagenes/inmuebles/miraflores/5.webp",
+      "imagenes/inmuebles/miraflores/6.webp",
+      "imagenes/inmuebles/miraflores/7.webp",
+      "imagenes/inmuebles/miraflores/8.webp",
+      "imagenes/inmuebles/miraflores/9.webp",
+    ],
+    type: "casa",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Casa esquinera",
+    bedrooms: 3, // habitaciones
+    bathrooms: 2, // Baños
+    area: 106,
+    parking: 0,
+    price: 440000000,
+    negotiable: true,
+    location: "Turbaco - Bolivar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN EL VALLE
+
+📍 UBICACIÓN: Urbanización El Valle / Turbaco - Bolivar 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 106 m²
+• HABITACIONES: 3
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina Americana
+• Sala y Comedor
+• Patio enchapado
+• Balcon
+• Terraza
+
+📲 ¡AGENDA TU VISITA HOY!
+No pierdas la oportunidad de conocer tu próximo hogar.
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [
+  "Inmueble de 3 niveles", 
+],
+  },
+
   // ... fin de modificacion para añadir o borrar nuevas propiedades:
 ];
 
