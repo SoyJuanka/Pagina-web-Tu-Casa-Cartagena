@@ -524,8 +524,8 @@ text-align: center;
 }
 
 .alliance-logo {
-  width: 160px;
-  height: 40px;
+  width: 180px;
+  height: 80px;
   border-radius: var(--radius-sm);
   display: flex;
   align-items: center;
@@ -539,7 +539,7 @@ text-align: center;
   height: 160px;
 }
 
-.logo360 {
+.logo-360 {
   height: 160px;
 }
 
@@ -548,7 +548,7 @@ text-align: center;
 }
 
 .caja-social{
-  height: 160px;
+  height: 180px;
 }
 
 /* ===== Services (Figma) ===== */
