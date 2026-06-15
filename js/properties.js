@@ -586,8 +586,8 @@ features: [
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
     title: "San Fernando | La Florida",
-    bedrooms: 4, // habitaciones
-    bathrooms: 2, // Baños
+    bedrooms: 8, // habitaciones
+    bathrooms: 4, // Baños
     area: 580,
     parking: 0,
     price: 800000000,
@@ -599,6 +599,8 @@ features: [
 description: `ESPECTACULAR CASA DE 3 NIVELES | BARRIO SAN FERNANDO
 
 📍 UBICACIÓN: San Fernando / Cartagena de Indias 
+
+Lote de 10.5 x 18.5 mt2 (194.25mt2) y 580mt2 construidos.
 
 1er Piso:
 2 Apartamentos de 2 habitaciones, (una con closets ), 1 baño, cocina, patio de Labores, terraza. 
