@@ -502,7 +502,7 @@ features: [
 
         {
     id: 8,
-    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
     images: [
       "imagenes/inmuebles/jardin orquidea/1.webp",
       "imagenes/inmuebles/jardin orquidea/2.webp",
@@ -1002,6 +1002,286 @@ WhatsApp: 3104605207`,
 
 features: [ 
   "Cerca a colegio y comercios",
+],
+  },
+
+  
+                {
+    id: 16,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/monte bianco/1.webp",
+      "imagenes/inmuebles/monte bianco/2.webp",
+      "imagenes/inmuebles/monte bianco/3.webp",
+      "imagenes/inmuebles/monte bianco/4.webp",
+      "imagenes/inmuebles/monte bianco/5.webp",
+      "imagenes/inmuebles/monte bianco/6.webp",
+      "imagenes/inmuebles/monte bianco/7.webp",
+      "imagenes/inmuebles/monte bianco/8.webp",
+      "imagenes/inmuebles/monte bianco/9.webp",
+      "imagenes/inmuebles/monte bianco/10.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Monte Bianco | Piso 8°",
+    bedrooms: 3, // habitaciones
+    bathrooms: 2, // Baños
+    area: 76,
+    parking: 1,
+    price: 250000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 8° | MONTE BIANCO
+
+📍 UBICACIÓN: Monte Bianco / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 76 m²
+• HABITACIONES: 3
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon
+• Zona de labores
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Cerca a colegio y comercios
+• Ascensor
+
+📲 ¡AGENDA TU VISITA HOY!
+El barrio Los Alpes es reconocido por su tranquilidad y su cercanía a todo lo que necesitas:
+
+Comercio y Servicios: A pocos minutos de los principales centros comerciales (La Castellana, Ejecutivos), supermercados de cadena, bancos y centros médicos.
+
+Conectividad: Excelente acceso a transporte público y vías principales que te conectan rápidamente con el centro histórico y la zona norte de la ciudad.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Cerca a colegio y comercios",
+],
+  },
+
+                  {
+    id: 17,
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/soneta/1.webp",
+      "imagenes/inmuebles/soneta/2.webp",
+      "imagenes/inmuebles/soneta/3.webp",
+      "imagenes/inmuebles/soneta/4.webp",
+      "imagenes/inmuebles/soneta/5.webp",
+      "imagenes/inmuebles/soneta/6.webp",
+      "imagenes/inmuebles/soneta/7.webp",
+      "imagenes/inmuebles/soneta/8.webp",
+      "imagenes/inmuebles/soneta/9.webp",
+      "imagenes/inmuebles/soneta/10.webp",
+      "imagenes/inmuebles/soneta/11.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Morros Sonesta  | Amoblado",
+    bedrooms: 3, // habitaciones
+    bathrooms: 3, // Baños
+    area: 114,
+    parking: 2,
+    price: 1750000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 6° | MORROS SONETA
+
+📍 UBICACIÓN: Morros - Zona Norte / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 114 m²
+• HABITACIONES: 3
+• BAÑOS: 3
+• ESTRATO: 6
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon panoramico
+• Zona de labores
+• Parqueadero
+• Amoblado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Acceso directo a playas
+• Ascensor
+• Piscina
+• Gimnasio 
+• Canchas deportivas
+• Salon social
+
+📲 ¡AGENDA TU VISITA HOY!
+Invertir en Morros Sonesta no es solo comprar metros cuadrados; es asegurar un activo en una de las copropiedades más estables y apetecidas de Cartagena, con el respaldo de la marca Sonesta y la tranquilidad de la Zona Norte.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Cerca a playas",
+  "Gimnasio",
+  "Zona BBQ",
+  "Piscina",
+  "Vigilancia 24/7",
+],
+  },
+
+                  {
+    id: 18,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/new port/1.webp",
+      "imagenes/inmuebles/new port/2.webp",
+      "imagenes/inmuebles/new port/3.webp",
+      "imagenes/inmuebles/new port/4.webp",
+      "imagenes/inmuebles/new port/5.webp",
+      "imagenes/inmuebles/new port/6.webp",
+      "imagenes/inmuebles/new port/7.webp",
+      "imagenes/inmuebles/new port/8.webp",
+      "imagenes/inmuebles/new port/9.webp",
+      "imagenes/inmuebles/new port/10.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "New Port | Piso 13°",
+    bedrooms: 2, // habitaciones
+    bathrooms: 1, // Baños
+    area: 42,
+    parking: 1,
+    price: 170000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 6° | MORROS SONETA
+
+📍 UBICACIÓN: Edificio New Port / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 42 m²
+• HABITACIONES: 2
+• BAÑOS: 1
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon panoramico
+• Zona de labores
+• Parqueadero
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Ascensor
+• Piscina
+• Parques infantiles 
+• Canchas deportivas
+• Salon social
+
+📲 ¡AGENDA TU VISITA HOY!
+Este apartamento, construido en 2025, es la oportunidad ideal para quienes buscan estrenar vivienda en un sector con excelente conectividad. Su ubicación en el piso 13 garantiza una temperatura fresca y una vista inigualable, en un conjunto que lo tiene todo para el disfrute familiar.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Zona BBQ",
+  "Piscina",
+  "Vigilancia 24/7",
+],
+  },
+
+                    {
+    id: 19,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/trevi/1.webp",
+      "imagenes/inmuebles/trevi/2.webp",
+      "imagenes/inmuebles/trevi/3.webp",
+      "imagenes/inmuebles/trevi/4.webp",
+      "imagenes/inmuebles/trevi/5.webp",
+      "imagenes/inmuebles/trevi/6.webp",
+      "imagenes/inmuebles/trevi/7.webp",
+      "imagenes/inmuebles/trevi/8.webp",
+      "imagenes/inmuebles/trevi/9.webp",
+      "imagenes/inmuebles/trevi/10.webp",
+      "imagenes/inmuebles/trevi/11.webp",
+      "imagenes/inmuebles/trevi/12.webp",
+      "imagenes/inmuebles/trevi/13.webp",
+      "imagenes/inmuebles/trevi/14.webp",
+      "imagenes/inmuebles/trevi/15.webp",
+      "imagenes/inmuebles/trevi/16.webp",
+      "imagenes/inmuebles/trevi/17.webp",
+      "imagenes/inmuebles/trevi/18.webp",
+      "imagenes/inmuebles/trevi/19.webp",
+      "imagenes/inmuebles/trevi/20.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Conjunto Trevi | Piso 2°",
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 49.53,
+    parking: 1,
+    price: 395000000,
+    negotiable: true,
+    location: "Cartagena de indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 2° | CONJUNTO TREVI
+
+📍 UBICACIÓN: Conjunto Trevi / Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 49.53 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 4
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina Americana
+• Sala y Comedor
+• Balcon 
+• Zona de labores
+• Parqueadero Privado
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Ascensor
+• Piscina
+• Parques infantiles 
+• Zonas Verdes
+• Salon social
+
+📲 ¡AGENDA TU VISITA HOY!
+Este apartamento, construido en 2024, es la oportunidad ideal para quienes buscan una propiedad a estrenar, con amenidades completas en el desarrollo urbanístico más importante y exclusivo de la ciudad.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Zona BBQ",
+  "Piscina",
+  "Vigilancia 24/7",
 ],
   },
 
