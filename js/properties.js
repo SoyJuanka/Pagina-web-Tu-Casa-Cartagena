@@ -1306,9 +1306,9 @@ features: [
     title: "Lote Las Marcelas | Turbaco",
     bedrooms: 1, // habitaciones
     bathrooms: 2, // Baños
-    area: 332,
+    area: 280,
     parking: 1,
-    price: 360000000,
+    price: 215000000,
     negotiable: true,
     location: "Turbaco / Bolivar",
     
