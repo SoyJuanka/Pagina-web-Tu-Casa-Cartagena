@@ -1308,7 +1308,7 @@ features: [
     bathrooms: 2, // Baños
     area: 332,
     parking: 1,
-    price: 215000000,
+    price: 360000000,
     negotiable: true,
     location: "Turbaco / Bolivar",
     
