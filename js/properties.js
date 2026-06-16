@@ -1287,6 +1287,120 @@ features: [
 ],
   },
 
+                   {
+    id: 20,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/lote turbaco/1.webp",
+      "imagenes/inmuebles/lote turbaco/2.webp",
+      "imagenes/inmuebles/lote turbaco/3.webp",
+      "imagenes/inmuebles/lote turbaco/4.webp",
+      "imagenes/inmuebles/lote turbaco/5.webp",
+      "imagenes/inmuebles/lote turbaco/6.webp",
+      "imagenes/inmuebles/lote turbaco/7.webp",
+      "imagenes/inmuebles/lote turbaco/8.webp",
+      "imagenes/inmuebles/lote turbaco/9.webp",
+    ],
+    type: "lotes_campestres",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Lote Las Marcelas | Turbaco",
+    bedrooms: 1, // habitaciones
+    bathrooms: 2, // Baños
+    area: 332,
+    parking: 1,
+    price: 215000000,
+    negotiable: true,
+    location: "Turbaco / Bolivar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `LOTES EN VENTA | TURBACO - BOLIVAR
+
+📍 UBICACIÓN: Las Marcelas / Turbaco - Bolivar 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 332 m²
+• HABITACIONES: 1
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• 3 lotes con folio de matricula independiente
+• Sobre Avenida , calle vehicular
+• Unidad cerrada
+• Kiosko
+• Parque infantil
+• Patio
+• BBQ
+
+📲 ¡AGENDA TU VISITA HOY!
+¡Es el espacio perfecto para descansar, compartir en familia o desarrollar tu proyecto inmobiliario! Escríbeme y conoce esta propiedad.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Unidad cerrada",
+  "Sobre avenida",
+  "Patio",
+  "BBQ",
+],
+  },
+
+                     {
+    id: 21,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/plan parejo/1.webp",
+      "imagenes/inmuebles/plan parejo/2.webp",
+      "imagenes/inmuebles/plan parejo/3.webp",
+      "imagenes/inmuebles/plan parejo/4.webp",
+      "imagenes/inmuebles/plan parejo/5.webp",
+      "imagenes/inmuebles/plan parejo/6.webp",
+      "imagenes/inmuebles/plan parejo/7.webp",
+      "imagenes/inmuebles/plan parejo/8.webp",
+      "imagenes/inmuebles/plan parejo/9.webp",
+    ],
+    type: "casa",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Casa de 2 niveles | Turbaco",
+    bedrooms: 4, // habitaciones
+    bathrooms: 2, // Baños
+    area: 98.48,
+    parking: 0,
+    price: 215000000,
+    negotiable: true,
+    location: "Turbaco / Bolivar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `CASA DE 2 NIVELES BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
+
+📍 UBICACIÓN: Barrio Plan Parejo / Turbaco - Bolivar 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 98.48 m²
+• HABITACIONES: 4
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+
+1ER NIVEL: Terraza, sala comedor, cocina básica, Dos habitaciones, Un baño, zona de Labores y Patio.
+
+2DO NIVEL: Balcón, sala comedor, cocina básica, Dos habitaciones, Un baño , zona de Labores .
+
+📲 ¡AGENDA TU VISITA HOY!
+Esta casa es la oportunidad ideal para quienes buscan una PROPIEDAD joven, con amenidades completas y en un sector en pleno crecimiento.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "casa de 2 niveles",
+],
+  },
+
   // ... fin de modificacion para añadir o borrar nuevas propiedades:
 ];
 
