@@ -1,42 +1,23 @@
-# Tu Casa Cartagena - Sitio Web Inmobiliario
+# Tu Casa Cartagena - Plataforma Inmobiliaria de Alto Rendimiento
 
-Sitio web para la inmobiliaria Tu Casa Cartagena, basado en el diseño de Figma.
+Una plataforma web optimizada para la visualización de propiedades inmobiliarias en Cartagena de Indias (Serena del Mar, El Laguito y más).
 
-## Estructura del proyecto
+## 🚀 El Desafío
+Desarrollar una vitrina digital que priorice la **velocidad de carga y la experiencia de usuario**, manteniendo una gestión eficiente de un catálogo de propiedades en constante actualización.
 
-```
-Tu Casa Cartagena/
-├── index.html          → Página principal (landing)
-├── catalogo.html       → Catálogo completo con filtros (se abre en nueva pestaña)
-├── inmueble.html       → Vista detallada de cada inmueble
-├── css/
-│   └── styles.css      → Estilos globales
-└── js/
-    ├── properties.js   → Datos de todos los inmuebles
-    ├── cards.js        → Generador de tarjetas (compartido)
-    ├── main.js         → Lógica de la página principal
-    ├── catalogo.js     → Filtros y búsqueda del catálogo
-    └── detalle.js      → Vista detallada del inmueble
-```
+## 🛠️ Stack Tecnológico
+* **Frontend:** HTML5, CSS, JavaScript (Vanilla).
+* **Optimización:** Implementación de formatos modernos (WebP) para asegurar el máximo *PageSpeed*.
+* **Estructura de Datos:** Gestión modular de propiedades mediante archivos `.js` para garantizar un rendimiento óptimo sin sobrecarga de base de datos externa.
 
-## Cómo abrir en Visual Studio
+## 💡 Soluciones Implementadas
+* **Gestión de Imágenes:** Resolución de errores de carga (404) mediante una lógica robusta en `cards.js` para asegurar la integridad visual de cada propiedad.
+* **Optimización de Carga:** Estructuración manual de datos para reducir el tiempo de respuesta (TTFB) y mejorar la escalabilidad del catálogo.
+* **UX/UI:** Diseño responsivo adaptado para dispositivos móviles, donde ocurre la mayoría de la búsqueda de propiedades.
 
-1. Abre **Visual Studio** o **Visual Studio Code**
-2. Ve a **Archivo → Abrir carpeta**
-3. Selecciona la carpeta `Tu Casa Cartagena`
-4. Haz clic derecho en `index.html` → **Abrir con Live Server** (extensión recomendada)
-   - O simplemente abre `index.html` en tu navegador
+## 📈 Resultados
+* Reducción significativa en el tiempo de carga mediante la optimización de activos multimedia.
+* Flujo de trabajo escalable para la adición de nuevas propiedades en zonas como Serena del Mar.
 
-## Funcionalidades
-
-- **Tarjetas dinámicas**: Los inmuebles destacados se generan con JavaScript desde `properties.js`
-- **Catálogo en nueva ventana**: El botón "INMUEBLES" abre `catalogo.html` en una pestaña independiente
-- **Filtros de búsqueda**: Por texto, tipo (venta/arriendo), precio y habitaciones
-- **Tarjetas clicables**: Al hacer clic en cualquier tarjeta se abre la vista detallada del inmueble
-- **Diseño responsive**: Se adapta a móviles, tablets y escritorio
-
-## Personalización
-
-- **Agregar inmuebles**: Edita el array `PROPERTIES` en `js/properties.js`
-- **Cambiar datos de contacto**: Busca `573001234567` y `contacto@tucasacartagena.com` en los archivos HTML
-- **Reemplazar imágenes**: Cambia las URLs en `properties.js` por tus propias fotos en una carpeta `assets/images/`
+---
+*Desarrollado con enfoque en rendimiento y calidad visual por Juanka Dev.*
