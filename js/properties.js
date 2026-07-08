@@ -1401,6 +1401,85 @@ features: [
 ],
   },
 
+                       {
+    id: 22,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/plan parejo silvia/1.webp",
+      "imagenes/inmuebles/plan parejo silvia/2.webp",
+      "imagenes/inmuebles/plan parejo silvia/3.webp",
+      "imagenes/inmuebles/plan parejo silvia/4.webp",
+      "imagenes/inmuebles/plan parejo silvia/5.webp",
+      "imagenes/inmuebles/plan parejo silvia/6.webp",
+      "imagenes/inmuebles/plan parejo silvia/7.webp",
+      "imagenes/inmuebles/plan parejo silvia/8.webp",
+      "imagenes/inmuebles/plan parejo silvia/9.webp",
+      "imagenes/inmuebles/plan parejo silvia/10.webp",
+      "imagenes/inmuebles/plan parejo silvia/11.webp",
+      "imagenes/inmuebles/plan parejo silvia/12.webp",
+      "imagenes/inmuebles/plan parejo silvia/13.webp",
+      "imagenes/inmuebles/plan parejo silvia/14.webp",
+      "imagenes/inmuebles/plan parejo silvia/15.webp",
+      "imagenes/inmuebles/plan parejo silvia/16.webp",
+      "imagenes/inmuebles/plan parejo silvia/17.webp",
+      "imagenes/inmuebles/plan parejo silvia/18.webp",
+      "imagenes/inmuebles/plan parejo silvia/19.webp",
+      "imagenes/inmuebles/plan parejo silvia/20.webp",
+      "imagenes/inmuebles/plan parejo silvia/21.webp",
+      "imagenes/inmuebles/plan parejo silvia/22.webp",
+      "imagenes/inmuebles/plan parejo silvia/23.webp",
+      "imagenes/inmuebles/plan parejo silvia/24.webp",
+      "imagenes/inmuebles/plan parejo silvia/25.webp",
+
+    ],
+    type: "casa",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Casa Campestre | Turbaco",
+    bedrooms: 4, // habitaciones
+    bathrooms: 4, // Baños
+    area: 1000,
+    parking: 1,
+    price: 850000000,
+    negotiable: true,
+    location: "Turbaco / Bolivar",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `CASA CAMPESTRE BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
+
+📍 UBICACIÓN: Barrio Plan Parejo / Turbaco - Bolivar 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 1000 m²
+• ÁREA CONSTRUIDA: 332 m²
+• HABITACIONES: 4 
+• BAÑOS: 4
+• ESTRATO: 3
+• BAÑO DE SERVICIO
+• HABITACION DE SERVICIO
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+
+• Casa de un solo nivel con excelente estado de conservación (construcción 2009)
+• Amplia sala y comedor 
+• Cocina funcional
+• Estudio / Oficina 
+• Terraza privada para disfrutar del entorno
+• Cuarto y baño de servicio
+• Zona de patio y extensas áreas verdes 
+• Salón social 
+
+📲 ¡AGENDA TU VISITA HOY!
+Esta propiedad es el espacio perfecto para familias que buscan comodidad, funcionalidad y un entorno tranquilo en Turbaco. ¡Es la oportunidad de vivir rodeado de naturaleza con todas las facilidades! Escríbeme y conoce tu próximo hogar.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "casa de 2 niveles",
+],
+  },
+
   // ... fin de modificacion para añadir o borrar nuevas propiedades:
 ];
 
