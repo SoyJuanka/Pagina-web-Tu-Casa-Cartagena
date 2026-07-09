@@ -38,12 +38,12 @@ description: `ESPECTACULAR APARTAMENTO EN 8° PISO | CONJUNTO COPA CABANA
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 59 m²
 • PISO: 8
-• HABITACIONES: 3 
-• BAÑOS: 2
-• PARQUEADEROS: Comunal
+• PARQUEADERO: Comunal
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3 
+• BAÑOS: 2
 • Cocina Americana, Pantry
 • Sala y Comedor
 • Balcón vista interna del conjunto
@@ -114,11 +114,12 @@ description: `ESPECTACULAR APARTAMENTO EN 9° PISO | EDIFICIO MAGNOLIA
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 71,5 m²
 • PISO: 9
-• HABITACIONES: 2 
-• BAÑOS: 2
 • ESTRATO: 3
+• PARQUEADERO: comunal
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2 
+• BAÑOS: 2
 • Cocina Amoblada, Pantry
 • Sala y Comedor
 • Balcón vista interna del conjunto
@@ -180,11 +181,11 @@ description: `ESPECTACULAR CASA DE 1 NIVEL | CONDOMINIO LA PRADERA
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 96 m²
-• HABITACIONES: 3
-• BAÑOS: 2
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 2
 • Cocina Americana,
 • Sala y Comedor
 • Terraza / Jardin
@@ -248,11 +249,12 @@ description: `ESPECTACULAR APARTAMENTO PISO 2 | CONJUNTO LA CUMBRE
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 58.25 m²
-• HABITACIONES: 3
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 2°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 2
 • Cocina,
 • Sala y Comedor
 • Zona de parqueo
@@ -304,7 +306,7 @@ features: [
     bedrooms: 2, // habitaciones
     bathrooms: 2, // Baños
     area: 57.33,
-    parking: 1,
+    parking: 0,
     price: 180000000,
     negotiable: true,
     location: "Cartagena de Indias",
@@ -318,11 +320,12 @@ description: `ESPECTACULAR APARTAMENTO PISO 10 | CONJUNTO TERRAZAS DE CALICANTO
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 57.33 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 10°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina
 • Sala y Comedor
 • Zona de parqueo
@@ -389,11 +392,12 @@ description: `ESPECTACULAR APARTAMENTO PISO 4 EN OBRA GRIS | CONJUNTO DAMMAR
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 58 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 4
+• PISO: 4°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina
 • Sala y Comedor
 • Zona de parqueo
@@ -462,11 +466,12 @@ description: `ESPECTACULAR APARTAMENTO PISO 4 EN OBRA GRIS | CONJUNTO PORTANOVA
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 58 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 4
+• PISO: 2°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina
 • Sala y Comedor
 • Zona de parqueo
@@ -535,11 +540,12 @@ description: `ESPECTACULAR APARTAMENTO PISO 2 | CONJUNTO JARDIN ORQUIDEA
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 57 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 2°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina Americana
 • Sala y Comedor
 • Zona de parqueo
@@ -654,11 +660,11 @@ description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN EL VALLE
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 106 m²
-• HABITACIONES: 3
-• BAÑOS: 2
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 2
 • Cocina Americana
 • Sala y Comedor
 • Patio enchapado
@@ -714,11 +720,11 @@ description: `ESPECTACULAR CASA DE 2 NIVELES | URBANIZACIÓN SANTA ANA
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 101 m²
-• HABITACIONES: 3
-• BAÑOS: 3
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 3
 • Cocina 
 • Sala y Comedor
 • Patio enchapado
@@ -777,14 +783,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 12° | CONJUNTO ALTAGRACIA
 
 📍 UBICACIÓN: Conjunto Altagracia / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 57 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 12°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina 
 • Sala y Comedor
 • Balcon
@@ -848,14 +856,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 9° | CONJUNTO LAS PALMAS
 
 📍 UBICACIÓN: Conjunto Las Palmas / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 81 m²
-• HABITACIONES: 3
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 9°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 2
 • Cocina 
 • Sala y Comedor
 • Balcon
@@ -913,14 +923,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 9° | EDIFICIO LAURA
 
 📍 UBICACIÓN: Edificio Laura / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 80 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 5
+PISO: 9°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina 
 • Sala y Comedor
 • Balcon
@@ -979,14 +991,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 2° | EDIFICIO RODEBA
 
 📍 UBICACIÓN: Edificio Rodeba / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 54 m²
-• HABITACIONES: 2
-• BAÑOS: 1
 • ESTRATO: 3
+• PISO: 2°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 1
 • Cocina 
 • Sala y Comedor
 • Balcon
@@ -995,6 +1009,7 @@ description: `ESPECTACULAR APARTAMENTO PISO 2° | EDIFICIO RODEBA
 🏢 AMENIDADES DEL CONJUNTO
 • Permiten mascotas
 • Cerca a colegio y comercios
+
 
 📲 ¡AGENDA TU VISITA HOY!
 Aprovecha esta oportunidad de inversión en una de las ciudades más turísticas de Colombia.
@@ -1039,14 +1054,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 8° | MONTE BIANCO
 
 📍 UBICACIÓN: Monte Bianco / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 76 m²
-• HABITACIONES: 3
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 8°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 2
 • Cocina 
 • Sala y Comedor
 • Balcon
@@ -1104,14 +1121,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 6° | MORROS SONETA
 
 📍 UBICACIÓN: Morros - Zona Norte / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 114 m²
-• HABITACIONES: 3
-• BAÑOS: 3
 • ESTRATO: 6
+• PISO: 6°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 3
+• BAÑOS: 3
 • Cocina 
 • Sala y Comedor
 • Balcon panoramico
@@ -1174,14 +1193,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 13° | CONJUNTO NEWPORT
 
 📍 UBICACIÓN: Edificio NewPort / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 42 m²
-• HABITACIONES: 2
-• BAÑOS: 1
 • ESTRATO: 3
+• PISO: 13°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 1
 • Cocina 
 • Sala y Comedor
 • Balcon panoramico
@@ -1251,14 +1272,16 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 2° | CONJUNTO TREVI
 
 📍 UBICACIÓN: Conjunto Trevi / Cartagena de Indias 
+🏢 ADMINISTRACIÓN: Consultar con el Asesor
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 49.53 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 4
+• PISO: 2°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 2
+• BAÑOS: 2
 • Cocina Americana
 • Sala y Comedor
 • Balcon 
@@ -1320,11 +1343,11 @@ description: `LOTES EN VENTA | TURBACO - BOLIVAR
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 332 m²
-• HABITACIONES: 1
-• BAÑOS: 2
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
+• HABITACIONES: 1
+• BAÑOS: 2
 • 3 lotes con folio de matricula independiente
 • Sobre Avenida , calle vehicular
 • Unidad cerrada
@@ -1452,8 +1475,6 @@ description: `CASA CAMPESTRE BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 1000 m²
 • ÁREA CONSTRUIDA: 332 m²
-• HABITACIONES: 4 
-• BAÑOS: 4
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
@@ -1466,6 +1487,8 @@ description: `CASA CAMPESTRE BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
 • Cuarto de labores
 • Patio sembrado con árboles frutales
 • Parqueadero para 2 vehiculos  
+• HABITACIONES: 4 
+• BAÑOS: 4
 
 📲 ¡AGENDA TU VISITA HOY!
 Esta propiedad es el espacio perfecto para familias que buscan comodidad, funcionalidad y un entorno tranquilo en Turbaco. ¡Es la oportunidad de vivir rodeado de naturaleza con todas las facilidades! Escríbeme y conoce tu próximo hogar.
@@ -1527,18 +1550,20 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 28° | CONJUNTO NEWPORT
 
 📍 UBICACIÓN: Conjunto NewPort | Cartagena de Indias 
+🏢 ADMINISTRACIÓN: $135.000
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 52 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 28°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
 • Cocina 
 • Sala y Comedor
 • Balcon panoramico
 • Zona de labores
+• HABITACIONES: 2
+• BAÑOS: 2
 
 🏢 AMENIDADES DEL CONJUNTO
 • Vigilancia 24/7
@@ -1546,7 +1571,7 @@ description: `ESPECTACULAR APARTAMENTO PISO 28° | CONJUNTO NEWPORT
 • Parques infantiles
 • Zonas Verdes
 • Zona social
-• Parqueadero
+• Parqueadero Comunal
 
 📲 ¡AGENDA TU VISITA HOY!
 Newport es un espacio ideal para la recreación de toda la familia, logrando consolidar espacios de diversión: zona deportiva, salón para guardería, salón social, gimnasio, piscina y juegos infantiles. Un proyecto ideal para contemplar la belleza de la ciudad.
@@ -1579,7 +1604,7 @@ features: [
     bedrooms: 2, // habitaciones
     bathrooms: 2, // Baños
     area: 52.83,
-    parking: 1,
+    parking:0,
     price: 157000000,
     negotiable: true,
     location: "Cartagena de Indias",
@@ -1589,12 +1614,12 @@ features: [
 description: `ESPECTACULAR APARTAMENTO PISO 8° | CONJUNTO BRISAS DEL JADIN
 
 📍 UBICACIÓN: Conjunto Brisas del Jardin | Cartagena de Indias 
+🏢 ADMINISTRACIÓN: $150.000
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 52.83 m²
-• HABITACIONES: 2
-• BAÑOS: 2
 • ESTRATO: 3
+• PISO: 8°
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
 • Cocina 
@@ -1602,6 +1627,8 @@ description: `ESPECTACULAR APARTAMENTO PISO 8° | CONJUNTO BRISAS DEL JADIN
 • Balcon 
 • Zona de labores
 • Estudio
+• HABITACIONES: 2
+• BAÑOS: 2
 
 🏢 AMENIDADES DEL CONJUNTO
 • Vigilancia 24/7
@@ -1609,7 +1636,7 @@ description: `ESPECTACULAR APARTAMENTO PISO 8° | CONJUNTO BRISAS DEL JADIN
 • Parques infantiles
 • Zonas Verdes
 • Zona social
-• Parqueadero
+• Parqueadero Comunal
 
 📲 ¡AGENDA TU VISITA HOY!
 ¡Es el espacio perfecto para descansar, compartir en familia o desarrollar tu proyecto inmobiliario! Escríbeme y conoce esta propiedad.
