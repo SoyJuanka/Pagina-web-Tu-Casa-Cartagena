@@ -1160,7 +1160,7 @@ features: [
     ],
     type: "apartamento",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "New Port | Piso 13°",
+    title: "NewPort | Piso 13°",
     bedrooms: 2, // habitaciones
     bathrooms: 1, // Baños
     area: 42,
@@ -1171,9 +1171,9 @@ features: [
     
     // ... dentro de los datos de tu PROPERTIES:
 
-description: `ESPECTACULAR APARTAMENTO PISO 6° | MORROS SONETA
+description: `ESPECTACULAR APARTAMENTO PISO 13° | CONJUNTO NEWPORT
 
-📍 UBICACIÓN: Edificio New Port / Cartagena de Indias 
+📍 UBICACIÓN: Edificio NewPort / Cartagena de Indias 
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 42 m²
@@ -1197,7 +1197,7 @@ description: `ESPECTACULAR APARTAMENTO PISO 6° | MORROS SONETA
 • Salon social
 
 📲 ¡AGENDA TU VISITA HOY!
-Este apartamento, construido en 2025, es la oportunidad ideal para quienes buscan estrenar vivienda en un sector con excelente conectividad. Su ubicación en el piso 13 garantiza una temperatura fresca y una vista inigualable, en un conjunto que lo tiene todo para el disfrute familiar.
+Newport es un espacio ideal para la recreación de toda la familia, logrando consolidar espacios de diversión: zona deportiva, salón para guardería, salón social, gimnasio, piscina y juegos infantiles. Un proyecto ideal para contemplar la belleza de la ciudad.
 
 Contacto: Grupo empresarial Tu Casa Cartagena
 WhatsApp: 3104605207`,
@@ -1403,7 +1403,7 @@ features: [
 
                        {
     id: 22,
-    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    featured: true, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
     images: [
       "imagenes/inmuebles/plan parejo silvia/1.webp",
       "imagenes/inmuebles/plan parejo silvia/2.webp",
@@ -1434,7 +1434,7 @@ features: [
     ],
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
-    title: "Casa Campestre | Turbaco",
+    title: "Casa Campestre",
     bedrooms: 4, // habitaciones
     bathrooms: 4, // Baños
     area: 1000,
@@ -1459,15 +1459,15 @@ description: `CASA CAMPESTRE BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
 • HABITACION DE SERVICIO
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
-
-• Casa de un solo nivel con excelente estado de conservación (construcción 2009)
-• Amplia sala y comedor 
-• Cocina funcional
-• Estudio / Oficina 
-• Terraza privada para disfrutar del entorno
-• Cuarto y baño de servicio
-• Zona de patio y extensas áreas verdes 
-• Salón social 
+• Terraza
+• Sala 
+• Antesala
+• Cocina Amplia
+• Comedor
+• Estudio
+• Cuarto de labores
+• Patio sembrado con árboles frutales
+• Parqueadero para 2 vehiculos  
 
 📲 ¡AGENDA TU VISITA HOY!
 Esta propiedad es el espacio perfecto para familias que buscan comodidad, funcionalidad y un entorno tranquilo en Turbaco. ¡Es la oportunidad de vivir rodeado de naturaleza con todas las facilidades! Escríbeme y conoce tu próximo hogar.
@@ -1476,7 +1476,153 @@ Contacto: Grupo empresarial Tu Casa Cartagena
 WhatsApp: 3104605207`,
 
 features: [ 
-  "casa de 2 niveles",
+  "casa campestre",
+],
+  },
+
+                     {
+    id: 23,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/newport piso 28/1.webp",
+      "imagenes/inmuebles/newport piso 28/2.webp",
+      "imagenes/inmuebles/newport piso 28/3.webp",
+      "imagenes/inmuebles/newport piso 28/4.webp",
+      "imagenes/inmuebles/newport piso 28/5.webp",
+      "imagenes/inmuebles/newport piso 28/6.webp",
+      "imagenes/inmuebles/newport piso 28/7.webp",
+      "imagenes/inmuebles/newport piso 28/8.webp",
+      "imagenes/inmuebles/newport piso 28/9.webp",
+      "imagenes/inmuebles/newport piso 28/10.webp",
+      "imagenes/inmuebles/newport piso 28/11.webp",
+      "imagenes/inmuebles/newport piso 28/12.webp",
+      "imagenes/inmuebles/newport piso 28/13.webp",
+      "imagenes/inmuebles/newport piso 28/14.webp",
+      "imagenes/inmuebles/newport piso 28/15.webp",
+      "imagenes/inmuebles/newport piso 28/16.webp",
+      "imagenes/inmuebles/newport piso 28/17.webp",
+      "imagenes/inmuebles/newport piso 28/18.webp",
+      "imagenes/inmuebles/newport piso 28/19.webp",
+      "imagenes/inmuebles/newport piso 28/20.webp",
+      "imagenes/inmuebles/newport piso 28/21.webp",
+      "imagenes/inmuebles/newport piso 28/22.webp",
+      "imagenes/inmuebles/newport piso 28/23.webp",
+      "imagenes/inmuebles/newport piso 28/24.webp",
+      "imagenes/inmuebles/newport piso 28/25.webp",
+      "imagenes/inmuebles/newport piso 28/26.webp",
+      "imagenes/inmuebles/newport piso 28/27.webp",
+
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "NewPort | Piso 28°",
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 52,
+    parking: 1,
+    price: 230000000,
+    negotiable: true,
+    location: "Cartagena de Indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 28° | CONJUNTO NEWPORT
+
+📍 UBICACIÓN: Conjunto NewPort | Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 52 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon panoramico
+• Zona de labores
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Ascensor
+• Parques infantiles
+• Zonas Verdes
+• Zona social
+• Parqueadero
+
+📲 ¡AGENDA TU VISITA HOY!
+Newport es un espacio ideal para la recreación de toda la familia, logrando consolidar espacios de diversión: zona deportiva, salón para guardería, salón social, gimnasio, piscina y juegos infantiles. Un proyecto ideal para contemplar la belleza de la ciudad.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Vigilancia 24/7",
+  "Ubicación Estrategica",
+],
+  },
+
+                     {
+    id: 24,
+    featured: false, // ... para marcar si el inmueble es destacado o no y que aparezca en la ventana de inicio
+    images: [
+      "imagenes/inmuebles/Brisas del jardin/1.webp",
+      "imagenes/inmuebles/Brisas del jardin/2.webp",
+      "imagenes/inmuebles/Brisas del jardin/3.webp",
+      "imagenes/inmuebles/Brisas del jardin/4.webp",
+      "imagenes/inmuebles/Brisas del jardin/5.webp",
+      "imagenes/inmuebles/Brisas del jardin/6.webp",
+      "imagenes/inmuebles/Brisas del jardin/7.webp",
+    ],
+    type: "apartamento",
+    typeLabel: "INMUEBLE EN VENTA",
+    title: "Brisas del Jardin | Piso 8°",
+    bedrooms: 2, // habitaciones
+    bathrooms: 2, // Baños
+    area: 52.83,
+    parking: 1,
+    price: 157000000,
+    negotiable: true,
+    location: "Cartagena de Indias",
+    
+    // ... dentro de los datos de tu PROPERTIES:
+
+description: `ESPECTACULAR APARTAMENTO PISO 8° | CONJUNTO BRISAS DEL JADIN
+
+📍 UBICACIÓN: Conjunto Brisas del Jardin | Cartagena de Indias 
+
+🏠 ESPECIFICACIONES DEL INMUEBLE
+• ÁREA TOTAL: 52.83 m²
+• HABITACIONES: 2
+• BAÑOS: 2
+• ESTRATO: 3
+
+✨ DISTRIBUCIÓN Y COMODIDADES
+• Cocina 
+• Sala y Comedor
+• Balcon 
+• Zona de labores
+• Estudio
+
+🏢 AMENIDADES DEL CONJUNTO
+• Vigilancia 24/7
+• Ascensor
+• Parques infantiles
+• Zonas Verdes
+• Zona social
+• Parqueadero
+
+📲 ¡AGENDA TU VISITA HOY!
+¡Es el espacio perfecto para descansar, compartir en familia o desarrollar tu proyecto inmobiliario! Escríbeme y conoce esta propiedad.
+
+Contacto: Grupo empresarial Tu Casa Cartagena
+WhatsApp: 3104605207`,
+
+features: [ 
+  "Ascensor",
+  "Vigilancia 24/7",
+  "Parque Infantil",
 ],
   },
 
