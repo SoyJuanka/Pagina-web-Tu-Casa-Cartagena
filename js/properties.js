@@ -1461,7 +1461,7 @@ features: [
     bedrooms: 4, // habitaciones
     bathrooms: 4, // Baños
     area: 1000,
-    parking: 1,
+    parking: 2,
     price: 850000000,
     negotiable: true,
     location: "Turbaco / Bolivar",
@@ -1605,7 +1605,7 @@ features: [
     bathrooms: 2, // Baños
     area: 52.83,
     parking:0,
-    price: 157000000,
+    price: 165000000,
     negotiable: true,
     location: "Cartagena de Indias",
     
