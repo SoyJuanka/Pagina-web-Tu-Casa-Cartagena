@@ -24,7 +24,7 @@ const PROPERTIES = [
     bathrooms: 2, // Baños
     area: 59,
     parking: 0,
-    price: 198000000,
+    price: 190000000,
     negotiable: true,
     location: "Cartagena de Indias",
     
@@ -708,7 +708,7 @@ features: [
     bathrooms: 3, // Baños
     area: 89,
     parking: 1,
-    price: 275000000,
+    price: 300000000,
     negotiable: true,
     location: "Turbaco - Bolivar",
     
@@ -1383,44 +1383,50 @@ features: [
       "imagenes/inmuebles/plan parejo/7.webp",
       "imagenes/inmuebles/plan parejo/8.webp",
       "imagenes/inmuebles/plan parejo/9.webp",
+      "imagenes/inmuebles/plan parejo/10.webp",
+      "imagenes/inmuebles/plan parejo/11.webp",
+      "imagenes/inmuebles/plan parejo/12.webp",
+      "imagenes/inmuebles/plan parejo/13.webp",
+      "imagenes/inmuebles/plan parejo/14.webp",
     ],
     type: "casa",
     typeLabel: "INMUEBLE EN VENTA",
     title: "Casa de 2 niveles | Turbaco",
     bedrooms: 4, // habitaciones
-    bathrooms: 2, // Baños
-    area: 98.48,
-    parking: 0,
-    price: 152000000,
+    bathrooms: 3, // Baños
+    area: 112,
+    parking: 1,
+    price: 380000000,
     negotiable: true,
     location: "Turbaco / Bolivar",
     
     // ... dentro de los datos de tu PROPERTIES:
 
-description: `CASA DE 2 NIVELES BARRIO PLAN PAREJO  | TURBACO - BOLIVAR
+description: `CASA DE 2 NIVELES BARRIO BONANZA VISTA  | TURBACO - BOLIVAR
 
 📍 UBICACIÓN: Barrio Plan Parejo / Turbaco - Bolivar 
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
-• ÁREA TOTAL: 98.48 m²
+• ÁREA TOTAL: 112 m²
 • HABITACIONES: 4
-• BAÑOS: 2
+• BAÑOS: 3
 • ESTRATO: 3
 
 ✨ DISTRIBUCIÓN Y COMODIDADES
 
-1ER NIVEL: Terraza, sala comedor, cocina básica, Dos habitaciones, Un baño, zona de Labores y Patio.
+1ER NIVEL: Terraza amplia, sala, antesala, comedor, baño auxiliar, cocina integral, zona de labores, estudio, zona de parqueo y patio.
 
-2DO NIVEL: Balcón, sala comedor, cocina básica, Dos habitaciones, Un baño , zona de Labores .
+2DO NIVEL: 3 habitaciones con closet, 1 baño privado, 1 baño social, .
 
 📲 ¡AGENDA TU VISITA HOY!
-Esta casa es la oportunidad ideal para quienes buscan una PROPIEDAD joven, con amenidades completas y en un sector en pleno crecimiento.
+Ubicada en calle vehicular. excelente Ubicación. árboles frutales.
 
 Contacto: Grupo empresarial Tu Casa Cartagena
 WhatsApp: 3104605207`,
 
 features: [ 
   "casa de 2 niveles",
+  "calle vehicular",
 ],
   },
 
