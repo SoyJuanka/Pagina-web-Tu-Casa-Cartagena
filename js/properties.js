@@ -1404,7 +1404,7 @@ features: [
 
 description: `CASA DE 2 NIVELES BARRIO BONANZA VISTA  | TURBACO - BOLIVAR
 
-📍 UBICACIÓN: Barrio Plan Parejo / Turbaco - Bolivar 
+📍 UBICACIÓN: Barrio Bonanza Vista / Turbaco - Bolivar 
 
 🏠 ESPECIFICACIONES DEL INMUEBLE
 • ÁREA TOTAL: 112 m²
