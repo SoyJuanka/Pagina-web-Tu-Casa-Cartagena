@@ -307,7 +307,7 @@ features: [
     bathrooms: 2, // Baños
     area: 57.33,
     parking: 0,
-    price: 180000000,
+    price: 175000000,
     negotiable: true,
     location: "Cartagena de Indias",
     
@@ -453,7 +453,7 @@ features: [
     bathrooms: 2, // Baños
     area: 58,
     parking: 1,
-    price: 295000000,
+    price: 285000000,
     negotiable: true,
     location: "Cartagena de Indias - Serena del Mar",
     
@@ -648,7 +648,7 @@ features: [
     bathrooms: 2, // Baños
     area: 106,
     parking: 0,
-    price: 440000000,
+    price: 395000000,
     negotiable: true,
     location: "Turbaco - Bolivar",
     
@@ -1656,6 +1656,8 @@ features: [
   "Parque Infantil",
 ],
   },
+
+  
 
   // ... fin de modificacion para añadir o borrar nuevas propiedades:
 ];
